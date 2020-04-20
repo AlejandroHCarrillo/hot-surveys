@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
+### Installing ngx-charts
+https://medium.com/@swathisprasad/building-data-visualization-with-angular-and-ngx-charts-375942d49fd6
+
+You can grab the latest release from the Releases Page in Github or via NPM.
+https://swimlane.gitbook.io/ngx-charts/installing
+
+npm install @swimlane/ngx-charts --save
+
+
+Also, the release code is checked in and resides here.
+Check the package.json file for the versions of angular ngx-charts is compatible with.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
